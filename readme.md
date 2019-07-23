@@ -23,5 +23,6 @@ Students will be introduced to observability tools like prometheus and stack dri
 1. [`curl`](https://curl.haxx.se/) installed;
 1. A text editor and/or IDE you are familiar with installed;
 1. A web browser installed;
+1. A terminal/shell program installed (or IDE with an embedded terminal like Visual Studio Code);
 1. [prometheus binaries](https://prometheus.io/download/) for your operating system downloaded;
 1. [jaeger tracing binaries](https://www.jaegertracing.io/download/) for your operating system downloaded.
