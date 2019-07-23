@@ -18,11 +18,10 @@ Students will be introduced to observability tools like prometheus and stack dri
 
 1. Experience with the Go programming language, having completed at least a beginning Go workshop or [A Tour of Go](https://tour.golang.org/welcome/1);
 1. [Install SF Mono Font on MacOS](https://medium.com/@shashikant.jagtap/getting-apples-sf-mono-font-in-macos-1de5183add84) : This is to ensure that ascii diagrams on Github are rendered properly (on OSX anyway);
-1. Have [Go](https://golang.org/doc/install) v1.12+ installed locally;
-1. [`jq`](https://stedolan.github.io/jq/);
-1. [`curl`](https://curl.haxx.se/);
-1. [prometheus binaries](https://prometheus.io/download/) for your operating system;
-1. [jaeger tracing binaries](https://www.jaegertracing.io/download/) for your operating system;
-1. A text editor or IDE;
-1. A web browser installed.
-
+1. Have [Go](https://golang.org/doc/install) v1.12+ installed;
+1. [`jq`](https://stedolan.github.io/jq/) installed;
+1. [`curl`](https://curl.haxx.se/) installed;
+1. A text editor and/or IDE you are familiar with installed;
+1. A web browser installed;
+1. [prometheus binaries](https://prometheus.io/download/) for your operating system downloaded;
+1. [jaeger tracing binaries](https://www.jaegertracing.io/download/) for your operating system downloaded.
