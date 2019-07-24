@@ -75,6 +75,7 @@ func main() {
 	)
 	prometheus.MustRegister(info)
 	info.WithLabelValues(port).Set(1)
+	program
 
 	reqs := prometheus.NewCounterVec(prometheus.CounterOpts{
 		Name: "http_requests_total",
