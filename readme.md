@@ -16,6 +16,7 @@ Students will be introduced to observability tools like prometheus and stack dri
 
 ## Requirements
 
+1. http://gopherslack.com
 1. Experience with the Go programming language, having completed at least a beginning Go workshop or [A Tour of Go](https://tour.golang.org/welcome/1);
 1. [Install SF Mono Font on MacOS](https://medium.com/@shashikant.jagtap/getting-apples-sf-mono-font-in-macos-1de5183add84) : This is to ensure that ascii diagrams on Github are rendered properly (on OSX anyway);
 1. Have [Go](https://golang.org/doc/install) v1.12+ installed;
