@@ -45,6 +45,8 @@ $ gobin -u github.com/divan/expvarmon
 ```console
 $ go run server.go &
 $ hey -c 1 -z 60m http://localhost:8080/ &
-$ expvarmon -i 2s -ports="8080" -vars "mem:memstats.Alloc,mem:memstats.Sys,mem:memstats.HeapAlloc,mem:memstats.HeapInuse,duration:memstats.PauseNs,duration:memstats.PauseTotalNs,Requests,Errors,Port"
+$ expvarmon -i 2s -ports="8080" -vars "mem:memstats.Alloc,mem:memstats.Sys,mem:memstats.HeapAlloc,
+mem:memstats.HeapInuse,duration:memstats.PauseNs,duration:memstats.PauseTotalNs,
+Requests,Errors,Port"
 ...
 ```
