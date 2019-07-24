@@ -33,6 +33,8 @@ This applies not only to you, the workshop attendees, but to me as well.
 1. Logs
 1. Traces
 
+[![Observability Venn Diagram](../assets/obsrevability-ven.png)](https://peter.bourgon.org/blog/2017/02/21/metrics-tracing-and-logging.html)
+
 ## Metrics
 
 Before we can talk about Metrics we need to talk about Measurements.
