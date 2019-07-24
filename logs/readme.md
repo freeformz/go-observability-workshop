@@ -29,7 +29,7 @@ But if you have more robust observability tools, reduce your logging to importan
 
 See also [this twitter thread](https://twitter.com/VladimirVivien/status/1151899814076043264?s=20):
 
-![twitter convo](../../assets/twitter1.png)
+![twitter convo](../assets/twitter1.png)
 
 [Dave Cheney](https://dave.cheney.net/2015/11/05/lets-talk-about-logging):
 
