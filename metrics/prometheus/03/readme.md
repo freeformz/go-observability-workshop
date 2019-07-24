@@ -48,7 +48,7 @@ host := os.Getenv("HOSTNAME")
 if host == "" {
   host = "unknown"
 }
-failures = failures.MustCurryWith(prometheus.Labels{"host":host}
+failures = failures.MustCurryWith(prometheus.Labels{"host":host})
 // failures{host="www.google.com"}
 
 ...
